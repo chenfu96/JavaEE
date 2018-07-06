@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BOOK>
+	<ITEM>
+		<KEY>mysqlDriver</KEY>
+		<VALUE>com.mysql.jdbc.Driver</VALUE>
+	</ITEM>
+	
+	<ITEM>
+		<KEY>mysqlURL</KEY>
+		<VALUE>jdbc:mysql://localhost:3306/testjdbc</VALUE>
+	</ITEM>
+	
+	<ITEM>
+		<KEY>mysqlUser</KEY>
+		<VALUE>root</VALUE>
+	</ITEM>
+	
+	<ITEM>
+		<KEY>mysqlPSW</KEY>
+		<VALUE>123456</VALUE>
+	</ITEM>
+
+</BOOK>

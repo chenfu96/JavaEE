@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/bjsxt/sorm/bean/ColumnInfo.java=UTF-8
+encoding//src/com/bjsxt/sorm/bean/Configuration.java=UTF-8
+encoding//src/com/bjsxt/sorm/bean/TableInfo.java=UTF-8
+encoding//src/com/bjsxt/sorm/core/DBManager.java=UTF-8
+encoding//src/com/bjsxt/sorm/core/MySqlQuery.java=UTF-8
+encoding//src/com/bjsxt/sorm/core/Query.java=UTF-8
+encoding//src/com/bjsxt/sorm/core/TableContext.java=UTF-8
+encoding//src/com/bjsxt/sorm/utils/JavaFileUtils.java=UTF-8
+encoding//src/com/bjsxt/sorm/utils/ReflectUtils.java=UTF-8
+encoding//src/com/bjsxt/sorm/utils/StringUtils.java=UTF-8

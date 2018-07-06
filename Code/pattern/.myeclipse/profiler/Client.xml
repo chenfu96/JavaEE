@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="app_preset_prof_preset_name">Client Launch Configuration</entry>
+<entry key="app_preset_prof_preset_filter_s"/>
+<entry key="app_preset_prof_preset_filter_p">com.bjsxt.Mediator.*,
+com.bjsxt.adapter.*,
+com.bjsxt.bridge.*,
+com.bjsxt.builder.*,
+com.bjsxt.chainOfResp.*,
+com.bjsxt.command.*,
+com.bjsxt.decorator.*,
+com.bjsxt.facade.*,
+com.bjsxt.factory.abstractFactory.*,
+com.bjsxt.factory.factorymethod.*,
+com.bjsxt.factory.simplefactory.*,
+com.bjsxt.flyweight.*,
+com.bjsxt.iterator.*,
+com.bjsxt.memento.*,
+com.bjsxt.observer.*,
+com.bjsxt.prototype.*,
+com.bjsxt.proxy.dynamicProxy.*,
+com.bjsxt.proxy.staticProxy.*,
+com.bjsxt.singleton.*,
+com.bjsxt.state.*,
+com.bjsxt.strategy.*,
+com.bjsxt.templatemethod.*</entry>
+<entry key="app_preset_prof_preset_alloc_p">10</entry>
+<entry key="app_preset_"/>
+<entry key="app_preset_prof_preset_samplingRefreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_stacks_p">false</entry>
+<entry key="app_preset_prof_preset_roots_p">com.bjsxt.Mediator.**
+com.bjsxt.adapter.**
+com.bjsxt.bridge.**
+com.bjsxt.builder.**
+com.bjsxt.chainOfResp.**
+com.bjsxt.command.**
+com.bjsxt.decorator.**
+com.bjsxt.facade.**
+com.bjsxt.factory.abstractFactory.**
+com.bjsxt.factory.factorymethod.**
+com.bjsxt.factory.simplefactory.**
+com.bjsxt.flyweight.**
+com.bjsxt.iterator.**
+com.bjsxt.memento.**
+com.bjsxt.observer.**
+com.bjsxt.prototype.**
+com.bjsxt.proxy.dynamicProxy.**
+com.bjsxt.proxy.staticProxy.**
+com.bjsxt.singleton.**
+com.bjsxt.state.**
+com.bjsxt.strategy.**
+com.bjsxt.templatemethod.**
+</entry>
+<entry key="profiler.settings.instrument.empty.methods">false</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">false</entry>
+<entry key="app_preset_prof_preset_samplingRate_s">100</entry>
+<entry key="app_preset_prof_preset_filterMode_s">true</entry>
+<entry key="app_preset_prof_preset_selector"/>
+<entry key="app_preset_prof_preset_refreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_runnables_p">true</entry>
+<entry key="app_preset_prof_preset_filterMode_p">false</entry>
+<entry key="app_preset_prof_preset_memoryMode_p">true</entry>
+</properties>
